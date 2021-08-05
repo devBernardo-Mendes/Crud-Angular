@@ -1,0 +1,19 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Placa de video",
+            "price": "3499.99"
+
+        },
+        {
+            "id": 2,
+            "name": "Processador i5-10400f",
+            "price": "1099.99"
+        },
+        {
+            "id": 3,
+            "name": "Placa mãe Asus-Tuf 460m",
+            "price": "899.99"
+        }
+    ]
+}
