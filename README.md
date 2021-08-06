@@ -1,3 +1,3 @@
 # Crud-Angular
-Crud, utilizando angular para o frontend e nodejs para o back, objetivo do projeto é fazer uma listagem de gastos e produtos comprados. 
+Crud, using angular for the frontend and nodejs for the back, project goal is to make a listing of expenses and products purchased. 
 
