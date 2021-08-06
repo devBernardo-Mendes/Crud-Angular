@@ -1,4 +1,4 @@
-# Crud-Angular
+# Crud-Angular 👨🏻‍💻
 ## Welcome 🚀
 
 ### Crud, using angular for the frontend and nodejs for the backend, project goal is to make a listing of expenses and products purchased.
