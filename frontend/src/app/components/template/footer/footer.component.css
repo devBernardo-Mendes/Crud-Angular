@@ -1,0 +1,12 @@
+.footer {
+    position: fixed; /*- Deixa a posiçao do elemento fixada-*/
+    bottom: 0; /*-pega o elemento e poe no bottom da page-*/
+
+    display: flex; 
+    justify-content: flex-end; /*-alinha no eixo pirncial no final da linha-*/
+}
+
+.footer > span {
+    font-weight: 300;
+    font-size: 1.1rem;
+}
