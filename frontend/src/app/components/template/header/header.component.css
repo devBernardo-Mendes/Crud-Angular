@@ -1,11 +1,14 @@
 .header {
     display: flex;
     align-items: center;
+    background-color: #FFF;
 }
 .header a {
     display : flex;
     align-items: center;
     text-decoration: none;
+    color: black;
+    padding-left: 10px;
 }
 .header .logo{   
     max-height: 32px;
